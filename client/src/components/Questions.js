@@ -8,7 +8,7 @@ export default function Questions() {
     const question = data[0];
 
     useEffect(()=>{
-        console.log(data);
+    //console.log(question);
     })
 
     function onSelect(){
